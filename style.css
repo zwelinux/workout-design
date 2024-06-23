@@ -17,6 +17,11 @@
     border: 1px solid #2d2d2d;
 }
 
+.demo-img {
+    margin-top: 200px;
+    margin-left: 40px;
+}
+
 .controls {
     width: 90%;
     height: 20vh;
