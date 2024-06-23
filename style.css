@@ -1,8 +1,13 @@
 .title {
     width: 90%;
     height: 20vh;
-    background-color: antiquewhite;
+    background-color: rgb(120, 102, 78);
     border: 1px solid #2d2d2d;
+}
+
+.title-h1, .title-h2 {
+    margin-left: 20px;
+    color: #fff;
 }
 
 .demo {
