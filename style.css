@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+.main {
+    background: rgb(153,153,153);
+    background: linear-gradient(180deg, rgba(153,153,153,1) 54%, rgba(152,62,0,1) 100%);
+}
 
 .title {
     width: 90%;
     height: 20vh;
-    border: 1px solid #2d2d2d;
-    background-color: #efef12;
+    margin-top: 20px;
+    /* border: 1px solid #2d2d2d; */
+    /* background-color: #efef12; */
     font-family: "Montserrat", sans-serif;
 }
 
@@ -17,8 +22,8 @@
 .demo {
     width: 90%;
     height: 60vh;
-    background-color: rgb(91, 72, 46);
-    border: 1px solid #2d2d2d;
+    /* background-color: rgb(91, 72, 46); */
+    /* border: 1px solid #2d2d2d; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,8 +37,9 @@
 .controls {
     width: 90%;
     height: 20vh;
-    background-color: rgb(159, 97, 10);
-    border: 1px solid #2d2d2d;
+    /* background-color: rgb(159, 97, 10); */
+    /* border: 1px solid #2d2d2d; */
+
     text-align: center;
 }
 
