@@ -21,6 +21,23 @@
     margin-right: auto;
     margin-top: 20px;
     border-radius: 10px;
+
+    display: flex;
+}
+
+.main-exercise-content {
+    width: 70%;
+    height: 40px;
+    border: 1px solid #d52c2c;
+    background-color: #7a2222;
+}
+
+.main-exercise-count {
+
+    width: 30%;
+    height: 40px;
+    border: 1px solid #c5c5c5;
+    background-color: #cf3f3f;
 }
 
 .footer {
